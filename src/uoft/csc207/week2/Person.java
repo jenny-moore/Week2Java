@@ -6,7 +6,9 @@ package uoft.csc207.week2;
 class Person {
 
     /** The person's name (family name last).  */
-    String[] name;    /** The person's UTORid */  String utorid;
+    String[] name;    /** The person's UTORid */
+
+    String utorid;
     /**
      * Initialize this Person named name with UTORid utorid.
      *
